@@ -11,4 +11,4 @@ var guide= Console.ReadLine(); //input
 Console.WriteLine("what is your secondary bending type?"); //output 
 var subtype= Console.ReadLine(); //input
 
-Console.WriteLine($"You are a {element} bender from {homeland} and your companion is a {guide}. You are skilled at {subtype} bending.
+Console.WriteLine($"You are a {element} bender from {homeland} and your companion is a {guide}. You are skilled at {subtype} bending.");
